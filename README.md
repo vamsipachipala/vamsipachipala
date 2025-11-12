@@ -57,8 +57,8 @@ A mobile-first app for real-time charge capture and patient management.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeeraVamsi&show_icons=true&theme=tokyonight" alt="Veera's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeeraVamsi&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsipachipala&show_icons=true&theme=tokyonight" alt="Veera's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsipachipala&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ A mobile-first app for real-time charge capture and patient management.
 ## 🏅 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VeeraVamsi&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vamsipachipala&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -82,9 +82,3 @@ A mobile-first app for real-time charge capture and patient management.
 
 ⭐ **"Code with purpose, build with passion."**
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
