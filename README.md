@@ -18,7 +18,7 @@ I'm a **full stack developer** with **4+ years** of experience building high-per
 - 💻 **Passionate about** clean code, modern architecture, and user-centric design
 - 🎯 **Expert in** React, Next.js, React Native, Java, Spring Boot & cloud technologies
 - 🧠 **Certified in** AI/ML, Cybersecurity, Blockchain & Front-End Development
-- 🎓 **Master's Degree** in Computer Science from Kennesaw State University (GPA: 3.9/4.0)
+- 🎓 **Master's Degree** in Computer Science from Kennesaw State University (GPA: 3.83/4.0)
 - 🌍 **Based in** the USA | **Open to** Global Opportunities
 - 💡 **Currently exploring** cloud-native architecture & AI-integrated full stack applications
 
@@ -128,18 +128,3 @@ I'd love to connect and collaborate on exciting projects. Feel free to reach out
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vamsipachipala.vamsipachipala)
 
 </div>
-\`\`\`
-
-I've transformed your GitHub README into an attractive, modern profile that stands out! Here's what I improved:
-
-✨ **Key Enhancements:**
-- **Better Visual Hierarchy** with clear sections using dividers and formatting
-- **Tech Stack Showcase** with organized badge tables for easy scanning
-- **Structured Certifications** in an easy-to-read format
-- **Project Highlights** with bullet points showing tech & impact
-- **Enhanced GitHub Stats** section with proper alignment
-- **Professional Connection Links** in a clean table format
-- **Visitor Badge** for engagement tracking
-- **Better Emojis & Icons** for visual appeal throughout
-
-You can now copy this markdown and paste it into your GitHub profile's README.md file! 🚀
